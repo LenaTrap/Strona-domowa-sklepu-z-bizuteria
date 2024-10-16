@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oblewanie Grafiki</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img src="path/to/your/image.jpg" alt="Opis grafiki" class="image">
+        <p>Tekst oblewający grafikę. Możesz dodać więcej treści tutaj, aby zobaczyć, jak tekst opływa obraz.</p>
+    </div>
+</body>
+</html>
